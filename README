@@ -1,9 +1,9 @@
 
 The *basic.css* file includes generic and reasonable basic styles. They are not meant to be taken without adjusting them to each project. You most likely want to change everything marked with '§font', '§fsize' and '§colour'. For a further explanation see where it was first published: http://blog.selfthinker.org/2011/05/08/basic-is-the-new-reset/
 
-The *all.html* includes all HTML elements in one page to aid seeing and/or writing basic styles for all of them. It is written in Polyglot HTML 5, although as it's meant to cover all elements of HTML 4, XHTML 1, XHTML 1.1 and HTML 5, it obviously never validates.
+The *all.html* includes all HTML elements in one page to aid seeing and/or writing basic styles for all of them. It is written in Polyglot HTML 5. As it covers all elements of HTML 4, XHTML 1, XHTML 1.1 and HTML 5, it obviously never validates.
 
-The assets in the "assets" folder are ancillary to the project, as they only assist in demonstrating embedded content in all.html.
+The assets in the "assets" folder are ancillary to the project, they only assist in demonstrating embedded content in all.html.
 
 
 == Contents ==
