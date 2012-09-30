@@ -1,0 +1,49 @@
+
+The *basic.css* file includes generic and reasonable basic styles. They are not meant to be taken without adjusting them to each project. You most likely want to change everything marked with '§font', '§fsize' and '§colour'. For a further explanation see where it was first published: http://blog.selfthinker.org/2011/05/08/basic-is-the-new-reset/
+
+The *all.html* includes all HTML elements in one page to aid seeing and/or writing basic styles for all of them. It is written in Polyglot HTML 5, although as it's meant to cover all elements of HTML 4, XHTML 1, XHTML 1.1 and HTML 5, it obviously never validates.
+
+The assets in the "assets" folder are ancillary to the project, as they only assist in demonstrating embedded content in all.html.
+
+
+== Contents ==
+
+basic.css
+all.html
+    author: Anika Henke <anika@selfthinker.org>
+    license: CC0 [http://creativecommons.org/publicdomain/zero/1.0/]
+
+assets/
+    sample.jpg
+        source: http://www.flickr.com/photos/cloud_nine/15354825/
+        license: CC BY-NC-SA [http://creativecommons.org/licenses/by-nc-sa/2.0/]
+
+    sample.txt
+    sample.pdf
+    sample.html
+        author: Anika Henke <anika@selfthinker.org>
+        license: CC0 [http://creativecommons.org/publicdomain/zero/1.0/]
+
+    sample.mp3
+    sample.ogg
+        source: http://www.freesound.org/people/Department64/sounds/64017/
+        license: CC0 [http://creativecommons.org/publicdomain/zero/1.0/]
+
+    sample.mp4
+        source: http://www.flickr.com/photos/girlontherocks/3410680712/
+        license: CC BY-NC-SA [http://creativecommons.org/licenses/by-nc-sa/2.0/]
+    sample.webm
+    sample.ogv
+        modified by: Anika Henke <anika@selfthinker.org>
+
+    flowplayer-3.2.15.swf
+        source: http://flowplayer.org/
+        license: GPL 3 [http://flowplayer.org/download/licenses/license_gpl.html]
+
+
+== Similar projects ==
+
+* http://blog.teamtreehouse.com/setting-rather-than-resetting-default-styling
+* https://github.com/csswizardry/inuit.css/
+* http://necolas.github.com/normalize.css/
+* http://yuilibrary.com/yui/docs/cssbase/
